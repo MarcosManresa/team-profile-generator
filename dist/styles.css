@@ -1,0 +1,59 @@
+
+*{
+    font-family:cursive;
+}
+
+
+.card-header{
+    background-color: rgb(81, 81, 231);
+    color: white;
+    text-transform: capitalize;
+    min-height: 100px;
+    font-size: 24px;
+}
+
+
+.container{
+   padding-left: 100px;
+   padding-top: 30px;
+    
+}
+
+
+.card{
+    margin:10px;
+    box-shadow: 0 20px 30px 0 rgba(0,0,0,0.2);
+    border:none;
+    min-width: 200px;
+    min-height: 350px;
+    
+}
+
+
+.card-body{
+    background-color: rgb(211, 200, 200);
+}
+
+
+.jumbotron{
+    background-color: red;
+    text-align: center;
+    color: white;
+    min-height: 125px;
+}
+
+
+.employeeInfo{
+    padding-top: 50px;
+    
+}
+
+
+#internSchool{
+    text-transform: capitalize;
+}
+
+
+#teamText{
+    padding-top: 30px;
+}
